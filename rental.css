@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 235, 235);
+
+}
+
+.pesan{
+    background-color: rgb(118, 235, 22);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    width: 410px;
+    margin-top: 100px;
+    margin-left:400px;
+    border-radius: 4%;
+}
+
+.kirim{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(61, 61, 243);
+    padding: 5px;
+    width: 90px;
+}
+
+input[type="text"], input[type="number"] {
+    margin-bottom: 20px;
+    width: 350px;
+    padding: 7px;
+    border: 2px solid #000000;
+}
